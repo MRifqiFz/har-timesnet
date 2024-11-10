@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/fa449b7ffe5d4755abef75f6864b7206/artifacts
+end_time: 1731234332559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa449b7ffe5d4755abef75f6864b7206
+run_name: capable-auk-759
+run_uuid: fa449b7ffe5d4755abef75f6864b7206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731231693150
+status: 3
+tags: []
+user_id: rifki
