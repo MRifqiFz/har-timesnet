@@ -1,8 +1,9 @@
 artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/c9cbc23383ca485483f54ebc053f2512/artifacts
+deleted_time: 1731296026779
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c9cbc23383ca485483f54ebc053f2512
 run_name: capable-auk-759
 run_uuid: c9cbc23383ca485483f54ebc053f2512

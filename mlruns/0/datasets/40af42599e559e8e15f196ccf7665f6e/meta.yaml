@@ -1,0 +1,15 @@
+digest: 2fbb1066
+name: mHEALTH
+profile: '{"num_rows": 1215745, "num_elements": 15804685}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "alx", "required": true},
+  {"type": "double", "name": "aly", "required": true}, {"type": "double", "name":
+  "alz", "required": true}, {"type": "double", "name": "glx", "required": true}, {"type":
+  "double", "name": "gly", "required": true}, {"type": "double", "name": "glz", "required":
+  true}, {"type": "double", "name": "arx", "required": true}, {"type": "double", "name":
+  "ary", "required": true}, {"type": "double", "name": "arz", "required": true}, {"type":
+  "double", "name": "grx", "required": true}, {"type": "double", "name": "gry", "required":
+  true}, {"type": "double", "name": "grz", "required": true}, {"type": "long", "name":
+  "Activity", "required": true}]}'
+source: '{"tags": {"mlflow.user": "rifki", "mlflow.source.name": "/home/rifki/anaconda3/envs/timeseries/lib/python3.9/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
