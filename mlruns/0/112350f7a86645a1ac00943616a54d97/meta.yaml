@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/112350f7a86645a1ac00943616a54d97/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 112350f7a86645a1ac00943616a54d97
+run_name: dapper-sheep-432
+run_uuid: 112350f7a86645a1ac00943616a54d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733062039403
+status: 1
+tags: []
+user_id: rifki

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/1d4fa6dcb9b14d32b8cdca37a5584aab/artifacts
+end_time: 1733054756474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d4fa6dcb9b14d32b8cdca37a5584aab
+run_name: rare-bass-30
+run_uuid: 1d4fa6dcb9b14d32b8cdca37a5584aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733051853281
+status: 3
+tags: []
+user_id: rifki

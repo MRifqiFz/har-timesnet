@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/cabc3052253f4867bad37ed67ce3d71a/artifacts
+end_time: 1733062039361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cabc3052253f4867bad37ed67ce3d71a
+run_name: able-slug-825
+run_uuid: cabc3052253f4867bad37ed67ce3d71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733061553302
+status: 3
+tags: []
+user_id: rifki

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/a340ac70a7ed4cfbb72ca3707b4e0eb4/artifacts
+end_time: 1733050272041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a340ac70a7ed4cfbb72ca3707b4e0eb4
+run_name: classy-skink-104
+run_uuid: a340ac70a7ed4cfbb72ca3707b4e0eb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733049885395
+status: 3
+tags: []
+user_id: rifki

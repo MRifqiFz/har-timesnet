@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/b2b25c56f73a4e2c8fc15c5f8e92ac83/artifacts
+end_time: 1733061552351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2b25c56f73a4e2c8fc15c5f8e92ac83
+run_name: redolent-penguin-284
+run_uuid: b2b25c56f73a4e2c8fc15c5f8e92ac83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733057644331
+status: 3
+tags: []
+user_id: rifki

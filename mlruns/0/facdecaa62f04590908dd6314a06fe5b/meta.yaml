@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/facdecaa62f04590908dd6314a06fe5b/artifacts
+end_time: 1733055340967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: facdecaa62f04590908dd6314a06fe5b
+run_name: smiling-pig-27
+run_uuid: facdecaa62f04590908dd6314a06fe5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733055183448
+status: 3
+tags: []
+user_id: rifki

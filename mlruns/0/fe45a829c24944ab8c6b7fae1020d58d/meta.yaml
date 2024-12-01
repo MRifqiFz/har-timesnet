@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/fe45a829c24944ab8c6b7fae1020d58d/artifacts
+end_time: 1733055182453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe45a829c24944ab8c6b7fae1020d58d
+run_name: brawny-dolphin-238
+run_uuid: fe45a829c24944ab8c6b7fae1020d58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733054757452
+status: 3
+tags: []
+user_id: rifki

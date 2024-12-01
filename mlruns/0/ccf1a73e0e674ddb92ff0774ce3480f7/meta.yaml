@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/ccf1a73e0e674ddb92ff0774ce3480f7/artifacts
+end_time: 1733051852182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccf1a73e0e674ddb92ff0774ce3480f7
+run_name: traveling-calf-604
+run_uuid: ccf1a73e0e674ddb92ff0774ce3480f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733050273131
+status: 3
+tags: []
+user_id: rifki

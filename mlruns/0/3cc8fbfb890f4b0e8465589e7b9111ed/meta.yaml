@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/3cc8fbfb890f4b0e8465589e7b9111ed/artifacts
+end_time: 1733057643091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cc8fbfb890f4b0e8465589e7b9111ed
+run_name: traveling-horse-225
+run_uuid: 3cc8fbfb890f4b0e8465589e7b9111ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733056352498
+status: 3
+tags: []
+user_id: rifki

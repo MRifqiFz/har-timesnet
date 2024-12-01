@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/7b70b650751c4e388a3e5940cfe34f81/artifacts
+end_time: 1733056351430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b70b650751c4e388a3e5940cfe34f81
+run_name: upset-doe-733
+run_uuid: 7b70b650751c4e388a3e5940cfe34f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733055342019
+status: 3
+tags: []
+user_id: rifki
