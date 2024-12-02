@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/b20b2172f7834284a0ea621b8d613dfc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b20b2172f7834284a0ea621b8d613dfc
+run_name: masked-cat-94
+run_uuid: b20b2172f7834284a0ea621b8d613dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733104275174
+status: 1
+tags: []
+user_id: rifki

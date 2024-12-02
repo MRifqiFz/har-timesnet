@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rifki/research/Kuliah/har-timesnet/mlruns/0/c47d2db164af4253834a73a3b7aeb764/artifacts
+end_time: 1733099136228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c47d2db164af4253834a73a3b7aeb764
+run_name: melodic-fish-159
+run_uuid: c47d2db164af4253834a73a3b7aeb764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733093427562
+status: 3
+tags: []
+user_id: rifki
